@@ -24,6 +24,11 @@ ARC Compatibility
 
 EatFit requires ARC. 
 
+Supported orientations
+-----------------------
+
+EatFit supports only portrait orientation.
+
 Thread Safety
 --------------
 
